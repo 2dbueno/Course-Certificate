@@ -27,7 +27,7 @@ This repository showcases certificates from the courses I've successfully comple
    - **Description:** Development of cross-platform apps for Android, iOS, Windows, Linux, and MacOSX. Cover object-oriented programming, databases, design patterns, and master the Kivy Framework to create professional apps with a single codebase. Technologies include SQLAlchemy and Firebase, preparing for the job market and software development for the AppStore and PlayStore.
 
 7. **Excel Course**
-   - 📜 [Certificate](https://github.com/2dbueno/Course-Certificate/blob/main/Certificate_Excel_Course.pdf)
+   - 📜 [Certificate](https://github.com/2dbueno/Course-Certificate/blob/main/Cerificado_Curso_Excel.pdf)
    - **Description:** Theoretical and practical knowledge from basic to advanced in Excel, enabling you to work professionally. Learn to create and operate spreadsheets for various businesses, mastering features such as formatting, charts, formulas, and analysis.
 
 ...
